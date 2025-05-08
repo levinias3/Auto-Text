@@ -6,7 +6,7 @@ __pycache__/
 *$py.class
 
 # Các file EXE và thư mục Distribution
-Distribution/
+# Distribution/  # Đã bỏ loại trừ thư mục Distribution
 *.exe
 *.spec
 
