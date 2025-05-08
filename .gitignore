@@ -1,0 +1,27 @@
+# Thư mục build và dist từ PyInstaller
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Các file EXE và thư mục Distribution
+Distribution/
+*.exe
+*.spec
+
+# File môi trường Python
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Các file hệ thống
+.DS_Store
+Thumbs.db
+
+# Các file cá nhân nếu có
+*.log
+.idea/
+.vscode/ 
